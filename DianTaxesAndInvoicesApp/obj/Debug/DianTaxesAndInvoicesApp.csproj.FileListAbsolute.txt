@@ -1,0 +1,7 @@
+C:\Users\ismael\source\repos\DianTaxesAndInvoicesApp\DianTaxesAndInvoicesApp\obj\Debug\DianTaxesAndInvoicesApp.csproj.AssemblyReference.cache
+C:\Users\ismael\source\repos\DianTaxesAndInvoicesApp\DianTaxesAndInvoicesApp\obj\Debug\DianTaxesAndInvoicesApp.csproj.CoreCompileInputs.cache
+C:\Users\ismael\source\repos\DianTaxesAndInvoicesApp\DianTaxesAndInvoicesApp\bin\Debug\DianTaxesAndInvoicesApp.exe.config
+C:\Users\ismael\source\repos\DianTaxesAndInvoicesApp\DianTaxesAndInvoicesApp\bin\Debug\DianTaxesAndInvoicesApp.exe
+C:\Users\ismael\source\repos\DianTaxesAndInvoicesApp\DianTaxesAndInvoicesApp\bin\Debug\DianTaxesAndInvoicesApp.pdb
+C:\Users\ismael\source\repos\DianTaxesAndInvoicesApp\DianTaxesAndInvoicesApp\obj\Debug\DianTaxesAndInvoicesApp.exe
+C:\Users\ismael\source\repos\DianTaxesAndInvoicesApp\DianTaxesAndInvoicesApp\obj\Debug\DianTaxesAndInvoicesApp.pdb
